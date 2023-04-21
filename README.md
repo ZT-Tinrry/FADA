@@ -88,7 +88,7 @@ Our pretrained models for Synthia -> CityScapes task(s2c) and GTA5 -> CityScapes
 ![Visualization](gifs/output.gif)
 
 ### Acknowledge
-Some codes are adapted from [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) and [semseg](https://github.com/hszhao/semseg). We thank them for their excellent projects.
+Some codes are adapted from [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark), [semseg](https://github.com/hszhao/semseg) [sepico](https://github.com/BIT-DA/SePiCo). We thank them for their excellent projects.
 
 ### Citation
 If you find this code useful please consider citing
